@@ -11,7 +11,7 @@ public class AnnonymousCalculation
 				fact=fact*i;
 			}
 		System.out.println("Factorial is:"+fact);
-		System.out.println("Editing");
+
 	}
 	public static void main(String[] args) 
 	{
